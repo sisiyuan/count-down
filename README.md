@@ -1,2 +1,2 @@
-# count-down
-倒数动画
+# 参照以下链接
+http://liulanqi.baidu.com/
